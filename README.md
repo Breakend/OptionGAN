@@ -24,3 +24,15 @@ To run experiments, use the run scripts in the main directory.
 ## Notice
 
 We're still in the process of cleaning up the code and merging in changes from private repositories for final publication, so if there's something weird going on let us know.
+
+## Citation
+
+```
+@article{henderson2017optiongan,
+     author = {{Henderson}, Peter and {Chang}, Wei-Di and {Bacon}, Pierre-Luc and {Meger}, David and {Pineau}, Joelle and {Precup}, Doina},
+     title = "{OptionGAN: Learning Joint Reward-Policy Options using Generative Adversarial Inverse Reinforcement Learning}",
+     journal = {arXiv preprint arXiv:1709.06683},
+     year = 2017,
+     url={https://arxiv.org/pdf/1709.06683.pdf}
+}
+```
