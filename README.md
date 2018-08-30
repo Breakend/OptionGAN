@@ -25,7 +25,7 @@ Example:
 
 ```bash
 
-python run_optionated_policy_irlgan.py Hopper-v1 ../e2/ExperimentsInIRL/experts/mujoco/expert_rollouts_Hopper-v1.pickle --num_expert_rollouts 10 --timesteps_per_batch 25000 --d_num_epochs_per_step 3 --d_mutual_info_penalty 0.1 --n_iters 500 --num_options 2
+python run_optionated_policy_irlgan.py Hopper-v1 /path/to/experts/mujoco/expert_rollouts_Hopper-v1.pickle --num_expert_rollouts 10 --timesteps_per_batch 25000 --d_num_epochs_per_step 3 --d_mutual_info_penalty 0.1 --n_iters 500 --num_options 2
 
 ```
 
